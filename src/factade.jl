@@ -5,8 +5,6 @@ using ForwardDiff
 one after the other
 ```
 
-greet() = print("Hello World!")
-
 
 ``` Use this line below to include the base files as required```
 include("extra_file.jl")
